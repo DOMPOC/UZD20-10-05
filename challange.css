@@ -1,0 +1,48 @@
+*{
+	box-sizing: border-box;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.box p{
+	position: absolute;
+	top: 10%;
+	right: 20%;
+	font-size: 20pt;
+	color: #8f8686;
+}
+.box h2{
+	position: absolute;
+	top: 3%;
+	right: 30%;
+	font-size: 30pt;
+
+}
+.box{
+	height: 250px;
+	border-bottom: 1px solid #c9bfbf;
+	margin-bottom: 30px;
+}
+.box img{
+	padding-bottom: 50px;
+	float: left;
+	position: absolute;
+	left: 10%;
+}
+.boxi img{
+	float:right;
+	position: absolute;
+	right: 37%;
+}
+.boxi p{
+ font-size: 20pt;
+ top: 10%;
+ color: #8f8686;
+}
+.boxi h2{
+	font-size: 30pt;
+}
+.boxi{
+	padding-top: 35px;
+}
